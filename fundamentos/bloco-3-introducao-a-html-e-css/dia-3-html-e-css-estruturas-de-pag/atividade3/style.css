@@ -1,0 +1,11 @@
+h1, css {
+    text-align: center;
+}
+li:hover {
+    background-color: blue;
+    list-style: none;
+}
+li:active{
+    color:red;
+    list-style: none;
+}
